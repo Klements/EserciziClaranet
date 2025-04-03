@@ -1,0 +1,3 @@
+0   1    *     *       0         tar -cf /home/user`date +%F`.tar /home/user && 
+
+Necessario generare chiave pubblica e privata da condividere con il server
